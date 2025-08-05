@@ -1,0 +1,10 @@
+pandas 
+numpy
+matplotlib 
+seaborn 
+sentence-transformers
+spacy
+transformers
+textstat
+scikit-learn
+shap
