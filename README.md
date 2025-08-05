@@ -1,6 +1,6 @@
-# LengthPR: Peer Review Length Analysis
+# Dynamic Optimization of Peer Review Length Using Information Density Analysis
 
-This repository contains the research paper titled "Dynamic Optimization of Peer Review Length Using Information Density Analysis". The paper explores methods to optimize the length of peer reviews by analyzing the density of information provided.
+This repository contains the code, dataset, and API associated with the research paper titled "Dynamic Optimization of Peer Review Length Using Information Density Analysis." The paper investigates strategies to optimize peer review lengths by analyzing the density and quality of the information conveyed.
 
 ## Abstract
 
