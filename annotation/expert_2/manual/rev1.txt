@@ -1,0 +1,22 @@
+Review Excerpt (635 Words):
+1.(Experimental Detail) “The lack of hyper parameter tuning is worrisome.”
+2.(Experimental Detail) “This is worrisome because lack of hyperparameter tuning makes it difficult to make statements like method A is better than method B.”
+3.(Result Interpretation) “The paper sometimes presents strange explanations for its results.”
+4.(Clarity) “What does this sentence even mean?”
+5.(Internal Consistency) “These two sentences are contradictory, if a sequence labeling task classified words with “same syntax” to same category then syntax becomes a very valuable feature.”
+6.(Literature Context) “It is not enough to merely mention Lai et al. (2016) … and similarly the paper ‘Evaluating Word Embeddings Using a Representative Suite of Practical Tasks’ … should have been cited.”
+7.(Methodology Choice) “The paper uses a neural BOW words classifier for the text classification tasks but a simple linear classifier for the sequence labeling tasks.”
+8.(Justification) “What is the justification for this choice of classifiers?”
+9.(Analysis Suggestion) “It may be beneficial to perform factor analysis or some other pattern mining technique on this 120 sample dataset.”
+
+Coverage: High (9 Points)
+
+Length Consistency: Verbose
+
+Review Quality: Moderate
+
+Confidence Score: 4/5
+
+Reason: Covers multiple aspects of the paper but has some repetitive elements.
+
+Improvement Suggestion: Briefly state your hyperparameter tuning rationale up front, reconcile any contradictory explanations, add the missing citations, justify your classifier choices, and include a concise factor analysis of the 120 accuracy values.

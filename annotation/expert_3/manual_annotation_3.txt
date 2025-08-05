@@ -1,0 +1,40 @@
+Reviewer 3:-
+
+"- Strengths:
+
+This paper systematically investigated how context types (linear vs
+dependency-based) and representations (bound word vs unbound word) affect word
+embedding learning. They experimented with three models (Generalized
+Bag-Of-Words, Generalized Skip-Gram and Glove) in multiple different tasks
+(word similarity, word analogy, sequence labeling and text classification).
+Overall, 
+1)            It is well-written and structured.
+2)            The experiments are very thoroughly evaluated. The analysis could
+help
+researchers to choose different word embeddings or might even motivate new
+models. 
+3)            The attached software can also benefit the community. 
+
+- Weaknesses:
+
+ The novelty is limited. 
+
+- General Discussion:
+
+For the dependency-based context types, how does the dependency parsing affect
+the overall performance? Is it fair to compare those two different context
+types since the dependency-based one has to rely on the predicted dependency
+parsing results (in this case CoreNLP) while the linear one does not?" 
+
+ANNOTATIONS
+
+Coverage: Low 
+Reason: The reviewer covers almost no deficiencies of the paper. They mention that the Novelty is limited with no context provided as to why. 
+
+Length Consistency: Compact
+Reason: The review is compact as there is literally no criticism! 
+
+Review Quality: Poor
+Confidence Score: 5
+Reason: The reviewer provides no criticism of the paper and the review seems to be written from a very superficial glance of the paper. Unlike other reviews, which besmirch the hyperparameter tuning of the experiments section, this reviewer complements it, going completely against the grain of the paper. 
+Improvement Suggestion: The reviewer has provided a general summary of the paper and limited amount of strengths of the paper. A much more thorough analysis of the paper is required for the reviewer to write any substantial comment about the paper. 

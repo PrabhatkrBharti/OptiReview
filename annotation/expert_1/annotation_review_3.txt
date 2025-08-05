@@ -1,0 +1,6 @@
+Coverage:  Medium
+Length Consistency: Short
+Review Quality: Moderate
+Confidence Score: 4
+Reason: The review praises the paper, but novelty point is underexplained
+Improvement Suggestion: Explain what, where and why the novelty seems limited. 
