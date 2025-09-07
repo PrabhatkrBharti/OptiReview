@@ -123,7 +123,7 @@ By default, the interface and API will be available at [http://0.0.0.0:7860](htt
 
 This Gradio demo is also deployed as a Hugging Face Space for easy web access:
 
-[![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Space-blue?logo=huggingface)](https://huggingface.co/spaces/Legal-NLP-404/Length_Optimization_Peer_Review)
+[![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Space-blue?logo=huggingface)](https://huggingface.co/spaces/PrabhatKBharti/Length_Optimization_Peer_Review)
 
 You can interact with the web UI directly or call the same `/api/predict` endpoint over HTTPS:
 
